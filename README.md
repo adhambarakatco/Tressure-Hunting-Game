@@ -40,17 +40,6 @@ To see the game in action, check out the video demonstration. This video showcas
 - **Interaction Logic**: The `Collect.cs` script handles object detection, interaction, score updates, and treasure tracking.
 - **Audio Integration**: Includes various sound effects for interactions, enhancing the player's experience.
 
-**Installation**
-
-1. Clone this repository to your local machine.
-2. Open the project in Unity (version 2022.3 or later recommended).
-3. Connect a webcam or use a mobile device to test the AR features.
-4. Play the game directly from the Unity Editor or build it for Android/iOS.
-
-**Usage**
-
-This project is free to use and modify for educational or personal purposes. Contributions and suggestions are welcome!
-
 **Contributors**
 
 - **Adham Hisham** - Developer and creator.
