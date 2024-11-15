@@ -5,12 +5,12 @@
 ARUnity is an immersive Augmented Reality (AR) experience that reimagines the traditional Treasure Hunt game, transforming your environment into a playground full of hidden treasures. Built with Unity and Vuforia, this project allows players to use their mobile or webcam to search, discover, and interact with virtual treasures integrated seamlessly into their real-world surroundings.
 
 Video Demo
+To see the game in action, check out the video demonstration. This video showcases the game's features, interactions, and user experience.**Features**
 
 
 https://github.com/user-attachments/assets/616752a0-f358-4ead-8086-f449d36e070a
 
 
-To see the game in action, check out the video demonstration. This video showcases the game's features, interactions, and user experience.**Features**
 
 
 
