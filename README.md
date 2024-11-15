@@ -4,14 +4,13 @@
 
 ARUnity is an immersive Augmented Reality (AR) experience that reimagines the traditional Treasure Hunt game, transforming your environment into a playground full of hidden treasures. Built with Unity and Vuforia, this project allows players to use their mobile or webcam to search, discover, and interact with virtual treasures integrated seamlessly into their real-world surroundings.
 
+
+
 Video Demo
 
 To see the game in action, check out the video demonstration. This video showcases the game's features, interactions, and user experience.**Features**
 
-
-https://github.com/user-attachments/assets/616752a0-f358-4ead-8086-f449d36e070a
-
-
+[https://github.com/user-attachments/assets/616752a0-f358-4ead-8086-f449d36e070a](https://github.com/user-attachments/assets/616752a0-f358-4ead-8086-f449d36e070a)
 
 
 
@@ -23,6 +22,7 @@ https://github.com/user-attachments/assets/616752a0-f358-4ead-8086-f449d36e070a
 - **Sound Effects**: Sound effects are used to enhance immersion, including unique sounds for different types of interactions.
 - **Progress Tracking**: A UI counter tracks the number of treasures found by the player.
 - **User-Friendly Interface**: Easy-to-use interaction buttons and a quit button for exiting the game.
+- **AR Mirror for Card Game**: Implemented an interactive AR mirror for a card game, allowing dynamic interaction with game cards using cartoon visuals.
 
 **How to Play**
 
@@ -33,6 +33,8 @@ https://github.com/user-attachments/assets/616752a0-f358-4ead-8086-f449d36e070a
 5. Find all treasures to win the game and receive a winning notification.
 6. Use the quit button to exit the game when finished.
 
+
+
 **Technical Details**
 
 - **Platform**: Unity with Vuforia integration for AR functionality.
@@ -40,6 +42,19 @@ https://github.com/user-attachments/assets/616752a0-f358-4ead-8086-f449d36e070a
 - **Game Objects**: Interactive elements include both imported 3D models and Unity-created objects.
 - **Interaction Logic**: The `Collect.cs` script handles object detection, interaction, score updates, and treasure tracking.
 - **Audio Integration**: Includes various sound effects for interactions, enhancing the player's experience.
+- **AR Mirror Interface**: Developed an AR mirror in Unity 3D for card game interactions, using cartoons to enhance the visual experience.
+- **Report and Website**: Authored the project report using LaTeX, and built a simple website for project introduction using HTML/CSS.
+
+**Installation**
+
+1. Clone this repository to your local machine.
+2. Open the project in Unity (version 2022.3 or later recommended).
+3. Connect a webcam or use a mobile device to test the AR features.
+4. Play the game directly from the Unity Editor or build it for Android/iOS.
+
+**Usage**
+
+This project is free to use and modify for educational or personal purposes. Contributions and suggestions are welcome!
 
 **Contributors**
 
